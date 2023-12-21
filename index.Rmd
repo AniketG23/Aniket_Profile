@@ -1,0 +1,39 @@
+---
+title: "Aniket Ghosh"
+image: "https://lh3.googleusercontent.com/a/AAcHTtcPuaO0S8k0rhL9jBKl5xOaGTmHy4Tz7YMZlYI5mg=s576-c-no"
+links:
+  - label: Resume
+    url: "https://www.linkedin.com/in/aniket-ghosh-b86294131"
+  - label: GitHub
+    url: "https://github.com/AniketG23"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+## Bio
+
+A results-oriented engineer with over 5 years of experience, blending technical expertise and business acumen through an MBA. Proven track record of driving transformative change in the power industry. Experienced with major electric utility companies in India and fintech startups in Singapore. Strong understanding of business aspects of electric utility sector. Committed to continuous learning. Passionate about new technologies and eager to contribute in dynamic environments.
+
+## *Experience* {data-icon="suitcase" data-concise="true"}
+
+**[Pand.ai](https://www.pand.ai/)** | Product Manager Intern | May 2022 - November 2022 | Singapore 
+
+**[Huasing Construction & Trading Pte Ltd.](https://www.huasing.com.sg/)** | Site Support Associate | March 2021 - September 2021 Singapore | Singapore
+
+**[CESC Limited](https://www.cesc.co.in/)** | Engineer | July 2018 - February 2020 | Kolkata, India
+
+**[Sterlite Power](https://www.sterlitepower.com/)** | Associate Manager | March 2014 - July 2018 | New Delhi, India
+
+**[Ishaani Electronics Pvt Ltd.](https://www.ishaaniindia.com)** | Graduate Trainee | June 2013 - February 2014 | Kolkata, India
+
+## *Education*{data-icon="graduation-cap" data-concise="true"}
+
+**[Singapore Management University](https://business.smu.edu.sg/)**  | M.B.A. | August 2021 - January 2023 | Singapore
+
+
+**[IE Business School](https://www.ie.edu/business-school/)** | MBA Exchange Program, Strategic Management | October 2022 | Madrid, Spain
+
+**[National Power Training Institute](https://npti.gov.in/)** | Post Graduate Diploma (Transmission & Distribution) | March 2014 - August 2014 | Bengaluru, India
+
+**[Kalyani Government Engineering College](https://kgec.edu.in/)** | B.Tech (Electrical Engineering) | August 2008 - September 2012 | Kalyani, India
